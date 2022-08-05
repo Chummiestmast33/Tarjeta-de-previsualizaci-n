@@ -7,11 +7,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 ![](./images/readme/Captura%20web_5-8-2022_17329_127.0.0.1.jpeg)
@@ -28,11 +26,6 @@ Users should be able to:
 ![](./images/readme/Captura%20web_5-8-2022_17329_127.0.0.1.jpeg)
 ![](./images/readme/Captura%20web_5-8-2022_1770_127.0.0.1.jpeg)
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
